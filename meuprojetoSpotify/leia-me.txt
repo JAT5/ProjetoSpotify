@@ -1,0 +1,5 @@
+Site criado seguindo um curso online na plataforma Udemy, alterado pensando em melhor visualização para usuário mobile.
+
+Este projeto sintetizou os conhecimentos que aprendi de css3 e html5 durante o curso, como display flex, grid, desenvolvimento responsivo, entre outros aspectos.
+
+Desenvolvido por Juliano Augusto.
